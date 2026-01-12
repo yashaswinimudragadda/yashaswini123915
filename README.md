@@ -1,22 +1,33 @@
-# Hi 👋, I'm Yashaswini Mudragadda  
-### A Passionate Java Full Stack Developer from India 🇮🇳
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm Yashaswini Mudragadda</h1>
+<h3 align="center">Java Full Stack Developer | Frontend Enthusiast | UI/UX Learner</h3>
 
-<table>
+---
+
+<!-- ===================== HERO SECTION ===================== -->
+<table width="100%">
 <tr>
+
+<!-- LEFT: PROFILE IMAGE -->
+<td width="35%" align="center" valign="top">
+
+<img src="profilephoto.png" alt="Yashaswini Mudragadda" width="240" />
+
+</td>
+
+<!-- RIGHT: ABOUT + EDUCATION -->
 <td width="65%" valign="top">
 
-## 🙋‍♀️ About Me
+## 👩‍💻 About Me
 
-I’m a passionate **Java Full Stack Developer** with a strong interest in building clean,
-responsive, and user-friendly web applications.
+I’m a passionate **Java Full Stack Developer** from India 🇮🇳 who enjoys building
+clean, scalable, and user-friendly web applications.
 
-I have hands-on experience with **HTML, CSS, JavaScript, Java, MySQL, React, and Next.js**.
-I also enjoy designing intuitive UI/UX using **Figma** before converting designs into code.
+I work with **Java, HTML, CSS, JavaScript, MySQL, React, and Next.js**, and I use
+**Figma** to design intuitive UI/UX before development.
 
-Currently, I’m focused on improving my skills in **modern frontend frameworks** and
-**full-stack development** by working on real-world projects.
-
-I’m a quick learner, a team player, and always excited to explore new technologies 🚀
+Currently, I’m focused on strengthening my **frontend architecture**, improving
+**full-stack workflows**, and building real-world projects.
 
 ---
 
@@ -25,17 +36,10 @@ I’m a quick learner, a team player, and always excited to explore new technolo
 **Master of Computer Applications (MCA)**  
 📍 India  
 
-**Bachelor’s Degree in Computer Science**  
-📊 Score: **84%**  
+**Bachelor of Computer Science**  
+📊 **84%**
 
-**Intermediate Education**  
-📍 India  
-
-</td>
-
-<td width="35%" align="top">
-
-<img src="profilephoto.png" alt="Yashaswini Mudragadda" width="500" height="auto"/>
+**Intermediate Education**
 
 </td>
 </tr>
@@ -43,50 +47,45 @@ I’m a quick learner, a team player, and always excited to explore new technolo
 
 ---
 
-## 🌱 Currently Learning
-- Next.js  
-- React.js  
-- Figma  
+## 🛠️ Technical Skills
 
----
-
-## 💬 Ask Me About
+**Languages & Databases**
 - Java  
-- HTML & CSS  
 - JavaScript  
+- MySQL  
+
+**Frontend**
+- HTML5  
+- CSS3  
+- React.js  
 - Next.js  
+- Tailwind CSS  
+
+**Tools & Design**
+- Git & GitHub  
 - Figma  
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: **mudragaddarajaniyashaswini@gmail.com**
-- 💼 LinkedIn: [Yashaswini Mudragadda](https://linkedin.com/in/yashaswini-mudragadda-9180a9252)
-- 💬 Discord: **yashaswinimudragadda_34982**
+## 🌱 Currently Learning
+- Advanced React & Next.js  
+- UI/UX Design Principles  
+- Scalable Frontend Architecture  
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</p>
+## 📫 Contact & Socials
+- 📧 **Email:** mudragaddarajaniyashaswini@gmail.com  
+- 💼 **LinkedIn:** [yashaswini-mudragadda](https://linkedin.com/in/yashaswini-mudragadda-9180a9252)  
+- 💬 **Discord:** yashaswinimudragadda_34982  
 
 ---
 
-## 🎯 Career Goal
-To grow as a skilled **Full Stack Developer** and contribute to impactful projects while
-continuously learning and improving my technical skills.
+## 🎯 Career Objective
+To grow as a **Full Stack Developer**, contribute to impactful projects, and continuously
+improve my technical and design skills.
 
 ---
 
-## ⚡ Fun Fact
-I enjoy designing UI in Figma before writing a single line of code 😄
+### ⚡ Fun Fact
+I enjoy designing UI in Figma before writing any code 😄
