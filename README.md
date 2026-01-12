@@ -33,7 +33,7 @@ I’m a quick learner, a team player, and always excited to explore new technolo
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="top">
 
 <img src="profilephoto.png" alt="Yashaswini Mudragadda" width="500" height="auto"/>
 
