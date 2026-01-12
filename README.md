@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashaswini Mudragadda</h1>
 <h3 align="center">A passionate java full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashaswini123915" alt="yashaswini123915" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="profilephoto.png" alt="yashaswini123915" /></a> </p>
 
 - 🌱 I’m currently learning **nextjs,reactjs,figma.**
 
