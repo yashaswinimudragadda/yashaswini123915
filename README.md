@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yashaswini Mudragadda</h1>
 <h3 align="center">A passionate java full stack developer from India</h3>
+<p align="left><ul>
+  <li>🎨 UI/UX Design & Web Accessibility</li>
+  <li>⚡ Building modern web applications</li>
+  <li>📱 Responsive & mobile-first design</li>
+  <li>🌱 Continuous learning & self-improvement</li>
+</ul>
+  </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="profilephoto.png" alt="yashaswini123915" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="profilephoto.png" alt="yashaswini123915" /></a> </p>
 
 - 🌱 I’m currently learning **nextjs,reactjs,figma.**
 
