@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yashaswini Mudragadda</h1>
 <h3 align="center">A passionate java full stack developer from India</h3>
-<p align="left><ul>
-  <li>🎨 UI/UX Design & Web Accessibility</li>
-  <li>⚡ Building modern web applications</li>
-  <li>📱 Responsive & mobile-first design</li>
-  <li>🌱 Continuous learning & self-improvement</li>
-</ul>
-  </p>
+
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="profilephoto.png" alt="yashaswini123915" /></a> </p>
+## 🙋‍♀️ About Me
+
+I’m a passionate **Java Full Stack Developer** from India 🇮🇳 with a strong interest in building
+clean, responsive, and user-friendly web applications.
+
+I have hands-on experience with **HTML, CSS, JavaScript, Java, MySQL, React, and Next.js**.
+I also enjoy designing intuitive UI/UX using **Figma** before turning designs into code.
+
+Currently, I’m focused on improving my skills in **modern frontend frameworks** and
+**full-stack development** by working on real-world projects.
+
+I’m a quick learner, a team player, and always excited to explore new technologies 🚀
+
 
 - 🌱 I’m currently learning **nextjs,reactjs,figma.**
 
