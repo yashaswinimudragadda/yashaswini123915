@@ -31,6 +31,12 @@ Currently, I’m focused on strengthening my **frontend architecture**, improvin
 
 ---
 
+</td>
+</tr>
+</table>
+
+---
+
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)**  
@@ -40,10 +46,6 @@ Currently, I’m focused on strengthening my **frontend architecture**, improvin
 📊 **84%**
 
 **Intermediate Education**
-
-</td>
-</tr>
-</table>
 
 ---
 
