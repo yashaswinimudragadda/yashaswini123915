@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 
-<img src="yashaswini mudragadda(1).png" alt="Yashaswini Mudragadda"  />
+<img src="logo.png" alt="Yashaswini Mudragadda"  />
 <h1 align="center">Hi 👋, I'm Yashaswini Mudragadda</h1>
 <h3 align="center">Java Full Stack Developer | Frontend Enthusiast | UI/UX Learner</h3>
 
