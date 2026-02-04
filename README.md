@@ -4,6 +4,8 @@
 <img src="logo.png" alt="Yashaswini Mudragadda"  />
 <h3 align="center">Java Full Stack Developer | Frontend Enthusiast | UI/UX Learner</h3>
 <!-- ===================== HERO SECTION ===================== -->
+My Skills<br>
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,react,typescript,mysqlite,mysql,python,eclipse,replit,vim,git,github)](https://skillicons.dev)
 ## 🛠️ Technical Skills
 
 **Languages & Databases**
